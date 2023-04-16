@@ -15,7 +15,6 @@ function changeTitle(){
   function run(e){
    
     // if(e.keycode===116){
-        //if
     // }
     e.preventDefault()
     console.log("f5 islemir");
@@ -23,7 +22,7 @@ function changeTitle(){
   }
 //   document.addEventListener("keydown",run)
 
- 
+ //a
 const inputTest=document.querySelector(".form-control");
 
 // inputTest.addEventListener("keydown",testFunction);
