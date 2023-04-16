@@ -15,7 +15,7 @@ function changeTitle(){
   function run(e){
    
     // if(e.keycode===116){
-        //asads
+        //if
     // }
     e.preventDefault()
     console.log("f5 islemir");
